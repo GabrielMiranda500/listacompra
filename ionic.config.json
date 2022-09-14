@@ -1,0 +1,7 @@
+{
+  "name": "trabalhopadocaentregar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
